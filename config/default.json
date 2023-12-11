@@ -1,0 +1,13 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 4000
+    },
+    "db": {
+        "type": "mongodb"
+    },
+    "cookie":{
+        "expressIn": 120960000
+    }
+
+}
